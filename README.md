@@ -80,3 +80,6 @@
 1. Установите зависимости:  
    ```bash
    pip install numpy
+![image](https://github.com/user-attachments/assets/e3ccd89f-bffa-41fc-b296-43c36ebcade3)
+![image](https://github.com/user-attachments/assets/03d7d0fc-76e3-467f-9ec7-9530756f3afa)
+
